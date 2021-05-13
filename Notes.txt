@@ -1,0 +1,16 @@
+What is getContext()?
+method returns a drawing context on the canvas, or null if the context identifier is not supported, or the canvas has already been set to a different context mode.
+
+
+what is lineJoin?(Round is most used)
+Round: off the corners of a shape by filling an additional sector of disc centered at the common endpoint of connected segments. The radius for these rounded corners is equal to the line width.
+
+
+what is lineCap?
+The CanvasRenderingContext2D.lineCap property of the Canvas 2D API determines the shape used to draw the end points of lines.
+
+
+for more infor visit MDN site.
+
+
+
